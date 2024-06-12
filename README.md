@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <h3 align="center">E-Commerce App [Reactjs HTML CSS]</h3>
-  <h3 align="center" font-style='italic'>In progress...</h3>
+  <h3 align="center"><i>In progress...</i></h3>
 
   <p align="center">
     E-Commerce application with simple database and cart feature.
