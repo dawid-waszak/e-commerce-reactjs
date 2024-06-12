@@ -23,11 +23,13 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <h3 align="center">E-Commerce App [Reactjs HTML CSS]</h3>
-  <h3 align="center">In progress...</h3>
+  <h3 align="center" font-style='itali'>In progress...</h3>
 
   <p align="center">
     E-Commerce application with simple database and cart feature.
   </p>
+
+![E-commerce](https://github.com/dawid-waszak/e-commerce-reactjs/assets/139113157/280ff71d-c7d7-4af0-bed6-31aeabf7ca6b)
 
 </div>
 
