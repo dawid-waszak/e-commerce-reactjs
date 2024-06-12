@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    margin: auto;
+    width: fit-content;
+    gap: 4rem;
+    padding: 1rem;
+}
+
+nav a{
+    font-size: 2rem;
+}

@@ -1,0 +1,44 @@
+*{
+  font-family: "Quicksand", sans-serif;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}
+
+:root{
+  --color-primary: #111;
+  --color-secondary: #FF7D29;
+  --color-secondary-light: #fdd1b4;
+}
+
+a{
+  text-decoration: none;
+  color: var(--color-primary);
+  transition: all .2s ease-in-out;
+}
+
+a:hover{
+  color: var(--color-secondary);
+}
+
+.cart-con{
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+#cart{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  max-width: 80vw;
+  margin-top: 2rem;
+}

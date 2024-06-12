@@ -1,0 +1,76 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "name": "Infinity X",
+            "price": 899.99,
+            "description": "Stay connected with our sleek and powerful smartphone, featuring a high-definition display and exceptional camera.",
+            "sale": 0.15,
+            "image_url": "./src/assets/Smartphone.jpg"
+        },
+        {
+            "id": 2,
+            "name": "SnapMaster Pro",
+            "price": 499.99,
+            "description": "Capture life's moments with our high-resolution digital camera, perfect for both professionals and hobbyists.",
+            "sale": 0,
+            "image_url": "./src/assets/Camera.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Vortex Gamer",
+            "price": 1299.99,
+            "description": "Experience top-tier gaming with our high-end gaming PC, equipped with the latest graphics card and fast processor.",
+            "sale": 0.0,
+            "image_url": "./src/assets/Pc.jpg"
+        },
+        {
+            "id": 4,
+            "name": "StrideElite",
+            "price": 119.99,
+            "description": "Step out in style and comfort with our trendy, high-quality shoes, perfect for everyday wear.",
+            "sale": 0.0,
+            "image_url": "./src/assets/Shoes.jpg"
+        },
+        {
+            "id": 5,
+            "name": "SoundWave Pro",
+            "price": 149.99,
+            "description": "Experience immersive audio with our premium, noise-canceling headphones.",
+            "sale": 0.0,
+            "image_url": "./src/assets/Sluchawki.jpg"
+        },
+        {
+            "id": 6,
+            "name": "FlexBook Ultra",
+            "price": 999.99,
+            "description": "Power through work and play with our versatile, high-performance laptop.",
+            "sale": 0.0,
+            "image_url": "./src/assets/Laptop.jpg"
+        },
+        {
+            "id": 7,
+            "name": "TabFusion",
+            "price": 399.99,
+            "description": "Enjoy seamless browsing, reading, and entertainment with our sleek, high-resolution tablet.",
+            "sale": 0.0,
+            "image_url": "./src/assets/Tablet.jpg"
+        },
+        {
+            "id": 8,
+            "name": "GameSphere",
+            "price": 199.99,
+            "description": "Dive into a world of gaming with our cutting-edge gaming console.",
+            "sale": 0.20,
+            "image_url": "./src/assets/Console.jpg"
+        }
+    ],
+
+    "users":[
+        {
+            "id": 1,
+            "name": "John Doe",
+            "age": 20
+        }
+    ]
+}
